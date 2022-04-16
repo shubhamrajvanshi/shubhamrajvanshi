@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align='center'>
+ Hi there 👋 I'm Shubham Rajvanshi 👨‍💻
+</h1>
 
 <!--
 **shubhamrajvanshi/shubhamrajvanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/shubhamrajvanshi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/shubhamrajvanshi">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
